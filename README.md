@@ -8,7 +8,7 @@ This project currently in development. The log in and sign up page are not creat
 Clone down this repository and run in your browser or you could see this project had been deployed into vercel in [tumbas-yuk-landing-page.vercel.app](https://tumbas-yuk-landing-page.vercel.app).
 
 ## Reflection
-This was 8-day mini project during my Digital Skill Fair 29.0 course by [dibimbing.id](https://dibimbing.id), which was held from July 15 until July 22, 2024. The goals of doing this project are to improve my front-end development skills and practice about how to make clean and user-friendly layouts.
+This was 8-day mini project during my Digital Skill Fair 29.0 bootcamp by [dibimbing.id](https://dibimbing.id), which was held from July 15 until July 22, 2024. The goals of doing this project are to improve my front-end development skills and practice about how to make clean and user-friendly layouts.
 
 One of the main challenges during this web project was Product Cards Layouting. It was not so easy to manage many cards in one single HTML file. Therefore, I started to learn about DRY (Don't Repeat Yourself) concept in Django and ReactJS.
 
