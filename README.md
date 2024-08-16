@@ -1,5 +1,5 @@
 ## TumbasYuk!
-TumbasYuk! is a dummy e-commerce website, built with HTML, CSS and JavaScript.
+TumbasYuk! is a dummy e-commerce website, built with HTML and CSS.
 
 ## Project Status
 This project currently in development. The log in and sign up page are not created yet. I will add them during the development.
@@ -12,4 +12,4 @@ This was 8-day mini project during my Digital Skill Fair 29.0 course by [dibimbi
 
 One of the main challenges during this web project was Product Cards Layouting. It was not so easy to manage many cards in one single HTML file. Therefore, I started to learn about DRY (Don't Repeat Yourself) concept in Django and ReactJS.
 
-At the end of the day, the technologies implemented in this project are HTML, CSS, and JavaScript. I plan to learn more about ReactJS and implement the framework in the next iteration.
+At the end of the day, the technologies implemented in this project are HTML and CSS. I plan to learn more about ReactJS and implement the framework in the next iteration.
