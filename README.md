@@ -4,6 +4,9 @@ TumbasYuk! is a dummy e-commerce website, built with HTML and CSS.
 ## Project Status
 This project currently in development. The log in and sign up page are not created yet. I will add them during the development.
 
+## Page Screenshot(s)
+![TumbasYuk! Website Preview](https://raulmaulidhino.pages.dev/assets/tumbas-yuk-landing-page-preview-DvxssQmi.png)
+
 ## Installation and Setup Instructions
 Clone down this repository and run in your browser or you could see this project had been deployed into vercel in [tumbas-yuk-landing-page.vercel.app](https://tumbas-yuk-landing-page.vercel.app).
 
