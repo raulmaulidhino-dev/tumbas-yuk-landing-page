@@ -2,7 +2,7 @@
 TumbasYuk! is a dummy e-commerce website, built with HTML and CSS.
 
 ## Project Status
-This project currently in development. The log in and sign up page are not created yet. I will add them during the development.
+This project currently in development. The Log in and Sign up Page are not created yet. I will add them during the development.
 
 ## Page Screenshot(s)
 ![TumbasYuk! Website Preview](https://raulmaulidhino.pages.dev/assets/tumbas-yuk-landing-page-preview-DvxssQmi.png)
