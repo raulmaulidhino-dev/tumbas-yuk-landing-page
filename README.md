@@ -1,5 +1,5 @@
 ## TumbasYuk!
-TumbasYuk! is a dummy e-commerce website, built with HTML and CSS.
+TumbasYuk! is a demo e-commerce website, built with HTML and CSS.
 
 ## Project Status
 This project currently in development. The Log in and Sign up Page are not created yet. I will add them during the development.
